@@ -1,5 +1,10 @@
 # Markdown XAML
 
+> [!CAUTION]
+> After several years of good intentions with no results, I've reluctantly acknowedged that I'm not going to be further maintaining this project. I'm therefore archiving it so that nobody who finds it in the future is mislead.
+> As far as I know, everything still works as well as it ever has.
+
+
 Markdown XAML is a port of the popular 
 [MarkdownSharp](http://code.google.com/p/markdownsharp/) Markdown processor, but with one very 
 significant difference: Instead of rendering to a string containing HTML, it renders to a 
